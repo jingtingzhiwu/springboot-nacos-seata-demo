@@ -1,4 +1,4 @@
-<h2>fork from https://github.com/a970066364/spring-cloud-alibaba-seata/（nacos文档实在是太烂了，感谢这位前辈自己整理了demo）</h2>
+<h2>fork from https://github.com/a970066364/spring-cloud-alibaba-seata/  （nacos文档实在是太烂了，感谢这位前辈自己整理了demo）</h2>
 
 ----------------------
 
